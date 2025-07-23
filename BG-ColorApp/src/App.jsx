@@ -14,6 +14,7 @@ function App() {
   //   }
   //   return colors;
   // }
+  
   // OPTIMIZED CODE FOR REACT
 
   const [bgColor, setBgColor] = useState("#FFFFFF");
